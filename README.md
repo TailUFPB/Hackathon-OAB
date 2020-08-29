@@ -32,4 +32,8 @@ Densidade Demográfica | https://www.ibge.gov.br/cidades-e-estados/pb.html |
 Respiradores até dezembro 2019 por cidade | https://saude-ibgedgc.hub.arcgis.com/datasets/445efd4a96514408afc47c130c227cec_7
 Contratações para Covid-19 | http://dados.gov.br/dataset/contratacoes-para-covid-19 |
  UTIS por estado até dezembro 2019 | https://saude-ibgedgc.hub.arcgis.com/datasets/2dfd385e7ded49c6b7f7929911806a20_0 | 
+| Painel de monitoramento dos gastos com covid-19 | https://www.tesourotransparente.gov.br/visualizacao/painel-de-monitoramentos-dos-gastos-com-covid-19 |
+| ENFRENTAMENTO DA EMERGENCIA DE SAUDE PUBLICA DE IMPORTANCIA INTERNACIONAL DECORRENTE DO CORONAVIRUS | http://www.portaltransparencia.gov.br/orcamento/despesas?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&de=2020&ate=2020&acao=21C0&colunasSelecionadas=ano%2CorgaoSuperior%2CorgaoVinculado%2Cfuncao%2CsubFuncao%2Cprograma%2Cacao%2CcategoriaEconomica%2CgrupoDespesa%2CelementoDespesa%2CorcamentoInicial%2CorcamentoAtualizado%2CorcamentoRealizado%2CpercentualRealizado&minifiedPath=%2Fminified&projectVersion=1.36.1&configAmbiente=producao&currentTime=28%2F08%2F2020+10%3A17&ordenarPor=ano&direcao=desc |
+
+ 
 
