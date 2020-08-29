@@ -1,6 +1,6 @@
 # Hackathon-OAB
 
-Repositorio para anexos e trabalhos feitos para o Hackathon-OAB.
+Para a solução do problema, decidimos ... .
 
 # Anexos
 
