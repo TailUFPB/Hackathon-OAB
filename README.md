@@ -8,7 +8,11 @@ Repositorio para anexos e trabalhos feitos para o Hackathon-OAB.
 
 | Detalhamento | Link |
 | ------------ | ---- |
+| Notificações de Síndrome Gripal | https://opendatasus.saude.gov.br/dataset/casos-nacionais |
 | Respiradores | http://dados.gov.br/dataset/distribuicao-de-respiradores |
+| População em risco | https://bigdata-covid19.icict.fiocruz.br/ |
+| Ocupação de leitos | https://elastic-leitos.saude.gov.br/leito_ocupacao/_search |
+
 
 
 * Secundário
