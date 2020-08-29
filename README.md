@@ -2,6 +2,17 @@
 
 Para a solução do problema, decidimos ... .
 
+# Datasets
+
+* Média móvel
+Média de casos/mortos por semana.
+
+* Casos diários
+Casos/mortos por dia.
+
+* Casos acumulados
+Casos/mortos acumulados.
+
 # Anexos
 
 Lembrar de filtrar os links e deixar apenas os que foram usados, para citação futura.
