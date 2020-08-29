@@ -13,6 +13,10 @@ Lembrar de filtrar os links e deixar apenas os que foram usados, para citação 
 | Respiradores | http://dados.gov.br/dataset/distribuicao-de-respiradores |
 | População em risco | https://bigdata-covid19.icict.fiocruz.br/ |
 | Ocupação de leitos | https://elastic-leitos.saude.gov.br/leito_ocupacao/_search |
+| Dados sobre casos (mortes, número de casos) | https://covid.saude.gov.br/ |
+|Dados por estado | https://opendatasus.saude.gov.br/dataset/casos-nacionais/resource/30c7902e-fe02-4986-b69d-906ca4c2ec36 | 
+|Licitações | https://dados.tce.pb.gov.br/TCE-PB-Portal-Gestor-Licitacoes_Propostas.txt.gz | 
+
 
 
 
