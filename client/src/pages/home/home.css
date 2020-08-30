@@ -104,14 +104,15 @@
     }
 
     .content h2 {
-        margin-left: 5px;
+        align-self: center;
         color: #00a5ff;
         font-size: 25px;
         font-weight: 300;
     }
 
     .content h1 {
-        margin-left: 3px;
+        align-self: center;
+        margin-left: 20px;
         color: #00a5ff;
         font-size: 35px;
     }

@@ -1,0 +1,44 @@
+.content-data {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin-top: 70px;
+    align-items: center;
+    padding: 50px;
+}
+
+.header-modal {
+    justify-content: end;
+    flex-direction: row;
+    display: flex;
+}
+
+.content-data p{
+    color: black;
+    text-align: justify;
+    text-anchor: unset;
+    width: 80%;
+    font-size: 20px;
+}
+
+.content-data Iframe {
+    width: 80%; 
+    height: 90000px;
+}
+
+.content-data Button {
+    font-size: 20px;
+    margin-top: 40px;
+    background-color: #00a5ff;
+}
+
+@media screen and (max-width: 900px) {
+    .content-data {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        margin-top: 70px;
+        align-items: center;
+        padding: 10px;
+    }
+}

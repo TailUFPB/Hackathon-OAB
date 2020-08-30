@@ -13,7 +13,7 @@ function Home(){
     const history = useHistory();
 
     return(
-        <div style={{backgroundColor: '#f0f0f0', height: window.outerrHeight}}>
+        <div style={{backgroundColor: '#f0f0f0', height:'100%'}}>
             <Header />
             <div className='home'>
                 <div className="main">
@@ -30,7 +30,7 @@ function Home(){
                 <div style={{width: '100%', padding: 20, marginTop: 40}}>
                     <div className='graphics-row'>
                         <div className='graphic'>
-                            <h2>Total de mortos no município da Paraíba</h2>
+                            <h2>Total de óbitos por município da Paraíba</h2>
                             <iframe src='https://flo.uri.sh/visualisation/3604832/embed' frameborder='0' scrolling='no' />
                         </div>
                         <div className='graphic'>

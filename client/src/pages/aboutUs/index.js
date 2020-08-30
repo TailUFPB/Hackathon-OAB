@@ -16,7 +16,7 @@ function AboutUs(){
                     <div className='title-block'>
                         <h1>A Plataforma</h1>
                     </div>
-                    <p className='text-block'>Somos uma plataforma que facilita o acesso e transparência das informações relacionadas aos gastos públicos na área de Saúde, com enfoque no período de pandemia da COVID-19.  </p>
+                    <p className='text-block'>Hermes não é nosso nome à toa. O deus grego é considerado um dos mais irreverentes, sendo o mensageiro dos deuses. O cajado, seu maior símbolo, é utilizado para representar a Medicina nos dias atuais. Assim, somos uma plataforma que facilita o acesso e transparência das informações relacionadas aos gastos públicos na área de Saúde, com enfoque no período de pandemia da COVID-19.  </p>
                 </div>
                 <div className='info-block'>
                 <div className='title-block'>

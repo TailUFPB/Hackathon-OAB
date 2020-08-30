@@ -6,7 +6,7 @@ import { useHistory, Redirect } from 'react-router-dom';
 import './header.css';
 
 function Header (){
-    const pages = ['Home',"Sobre"];
+    const pages = ['Home', "Respiradores", "Licitações","Sobre"];
     const [updateHeader, setUpdateHeader] = useState(false);
     const [show, setShow] = useState(false)
 
@@ -30,6 +30,10 @@ function Header (){
 
     return(
         <Navbar className='header' fixed='top'>
+            <Navbar.Brand style={{color: '#FFFFEE', fontSize: 30}} onClick={() => redirect('Home')}>
+                <img src={require('../../images/white_logo.png')} style={{height: 40, width: 30}}/>
+                Hermes
+            </Navbar.Brand>
             {
                 updateHeader === false ?
                 <Navbar.Collapse className='pages'>

@@ -11,7 +11,12 @@
 }
 
 .phone-menu {
-    margin-left: 20px
+    margin-left: 20px;
+}
+
+.phone-menu h4{
+    color: #00a5ff;
+    font-weight: 300;
 }
 
 .menu-icon {
