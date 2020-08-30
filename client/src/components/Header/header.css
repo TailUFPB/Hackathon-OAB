@@ -1,0 +1,26 @@
+.pages {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.header {
+    background-color: #00a5ff;
+}
+
+.phone-menu {
+    margin-left: 20px;
+}
+
+.phone-menu h4{
+    color: #00a5ff;
+    font-weight: 300;
+}
+
+.menu-icon {
+    height: 30px;
+    align-self: flex-end;
+}
+
