@@ -1,6 +1,5 @@
 # Hackathon-OAB
-
-Para a solução do problema, decidimos ... .
+Terceiro Lugar na maratona da OAB 2020!
 
 # Datasets
 
